@@ -8,3 +8,5 @@ To push the repo:
     4. git commit -m "commit_message"
     5. [Optional Step (Sometime)] git remote add origin https://github.com/yourusername/your-repo-name.git
     6. git push -u origin master
+
+Reference: https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
