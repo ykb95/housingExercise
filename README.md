@@ -5,6 +5,8 @@ Go to the directory and write the following command :
 To push the repo:
     2. The above command will clone the entire repo so go to the repo by cd reponame
     3. git add . (adding all types of file)
+        3a. If email and name asked : git config --global user.email "ykbnitjsr13@gmail.com"
+                                    : git config --global user.name "kryog"
     4. git commit -m "commit_message"
     5. [Optional Step (Sometime)] git remote add origin https://github.com/yourusername/your-repo-name.git
     6. git push -u origin master
